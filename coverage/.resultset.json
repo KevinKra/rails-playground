@@ -223,14 +223,74 @@
       ],
       "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/config/routes.rb": [
         1,
+        1,
         null,
+        1,
         null
       ],
       "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/models/song.rb": [
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/spec/features/songs/user_can_see_all_songs_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/spec/models/artist_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        3,
+        null,
+        3,
+        3,
+        3,
+        3,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/models/artist.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
         1,
         null,
         null
@@ -240,11 +300,97 @@
         1,
         null
       ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/spec/models/playlist_songs_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        null,
+        null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/models/playlistSong.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/spec/models/playlist_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        null,
+        null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/models/playlist.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/spec/models/song_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        4,
+        null,
+        4,
+        4,
+        4,
+        4,
+        null,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/models/song.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/controllers/application_controller.rb": [
         1,
         null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/controllers/playlists_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/kevinkrato/Desktop/Turing/BACKEND/MOD_2/rails-playground/app/controllers/songs_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1575407551
+    "timestamp": 1575470595
   }
 }
